@@ -2525,7 +2525,7 @@ York R, Mets DG. (2025). G–<span>P</span> <span>Atlas</span>: A neural network
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/nghuixin\.github\.io\/glass-box-umap-notebook-pub\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -2904,10 +2904,10 @@ York R, Mets DG. (2025). G–<span>P</span> <span>Atlas</span>: A neural network
     const script = document.createElement("script");
     script.src = "https://giscus.app/client.js";
     script.async = true;
-    script.dataset.repo = "Arcadia-Science/glass-box-umap-notebook-pub";
-    script.dataset.repoId = "R_kgDOPS0dmQ";
+    script.dataset.repo = "nghuixin/glass-box-umap-notebook-pub";
+    script.dataset.repoId = "";
     script.dataset.category = "General";
-    script.dataset.categoryId = "DIC_kwDOPS0dmc4CxL-I";
+    script.dataset.categoryId = "";
     script.dataset.mapping = "title";
     script.dataset.reactionsEnabled = "1";
     script.dataset.emitMetadata = "0";
