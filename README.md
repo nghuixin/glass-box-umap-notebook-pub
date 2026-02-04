@@ -9,4 +9,4 @@ This is an attempt to replicate and reproduce a notebook pub, which is a publish
 2. What sorts of challenges might I face when adapting the analyses to another dataset?
 
 # Dataset
-Dataset is from a 2025 paper Single-nucleus multiome shows motor neuron glutamate overactivation in amyotrophic lateral sclerosis [url](http://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf426/8321227?login=false)
+Dataset is from [Single-nucleus multiome shows motor neuron glutamate overactivation in amyotrophic lateral sclerosis ](http://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf426/8321227?login=false)
