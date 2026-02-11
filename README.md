@@ -10,7 +10,8 @@ This is an attempt to replicate and reproduce a notebook pub, which is a publish
 2. What sorts of challenges might I face when adapting the analyses to another dataset?
 
 # Dataset
-Dataset from [Single-nucleus multiome shows motor neuron glutamate overactivation in amyotrophic lateral sclerosis ](http://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf426/8321227?login=false)
+Dataset from [Single-nucleus multiome shows motor neuron glutamate overactivation in amyotrophic lateral sclerosis ](http://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf426/8321227?login=false)  
+
 My replication: https://nghuixin.github.io/glass-box-umap-notebook-pub/
 
 
